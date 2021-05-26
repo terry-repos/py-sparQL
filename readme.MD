@@ -1,2 +1,2 @@
 # PY-SPARQL
-The beginnings of a python library used to fetch and map GraphQL data
+The beginnings of a python library used to fetch and map RDF data
